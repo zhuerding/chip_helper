@@ -1,0 +1,11 @@
+samtools==1.17
+bwa==0.7.17-r1188
+macs2==2.2.9.1
+deeptools==3.5.1
+fastqc>=0.12.1
+fastq>=0.23.4
+pandas
+hashlib
+subprocess
+glob
+threading
